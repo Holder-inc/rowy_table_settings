@@ -1,0 +1,26 @@
+{
+  "_schema": {
+    "columns": {
+      "_id": {
+        "config": {
+        },
+        "fieldName": "_id",
+        "index": 0,
+        "key": "_id",
+        "name": "ID",
+        "type": "ID"
+      }
+    }
+  },
+  "audit": false,
+  "collection": "bins",
+  "description": "",
+  "id": "bins",
+  "name": "Bins",
+  "readOnly": false,
+  "roles": [
+    "ADMIN"
+  ],
+  "section": "Other",
+  "tableType": "primaryCollection"
+}
